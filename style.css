@@ -1,5 +1,21 @@
 /*to je nasa datoteka*/
 
-#main {
+#header {
   color: red;
+    background-color: yellow;
+    width: 200px;
+    height: 200px;
+    position: relative;
+    top: 10px;
+    left 10px;
+    
+}
+
+#kvadratek {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    background-color: aqua;
 }
